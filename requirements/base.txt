@@ -89,7 +89,7 @@ pyjwkest==1.4.2
     # via edx-drf-extensions
 pyjwt[crypto]==1.7.1
     # via drf-jwt
-pymongo==3.11.2
+pymongo==4.6.3
     # via edx-opaque-keys
 python-dateutil==2.8.1
     # via
